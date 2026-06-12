@@ -117,6 +117,7 @@ Polymarket alert bots, Telegram bots, and automated tools for prediction market 
 | **Polymarket Insider Bot** | Telegram | Bot | 🟢 Live | [@polymarketinsiderbot](https://t.me/polymarketinsiderbot) |
 | **Polyx Gold Bot** | Telegram | Bot | 🟢 Live | [@Polyx_gold_bot](https://t.me/Polyx_gold_bot) |
 | **Polyscalping** | Web | Bot, Alerts | 🟢 Live | [polyscalping.org](https://polyscalping.org) |
+| **OrcaLayer Alerts** | Telegram | Alerts, Signals | 🟢 Live | [@orcalayer](https://t.me/orcalayer_bot) |
 
 ---
 
@@ -184,6 +185,7 @@ Polymarket analytics tools and data analysis platforms for tracking prediction m
 | **Predictify** | Polygon, Solana | Bot, Data Analysis | 🟢 Live | [predictify.0xo.in](https://predictify.0xo.in/) |
 | **Robin Markets** | - | Data Analysis | 🟢 Live | [robin.markets](https://robin.markets) |
 | **Predictshark** | - | Data Analysis | 🟢 Live | [predictshark.io](https://predictshark.io) |
+| **OrcaLayer** | Polygon | Data Analysis | 🟢 Live | [orcalayer.com](https://orcalayer.com/?utm_source=github&utm_campaign=awesome-prediction-market) |
 
 ---
 
@@ -242,6 +244,7 @@ Protocols and infrastructure tools for prediction markets. These are the underly
 | **Infinite** | EVM | Data Analysis, Oracle | 🟢 Live | [infinite.market](https://infinite.market) |
 | **Uma Rocks** | Polygon | DeFi | 🟢 Live | [umarocks.com](https://umarocks.com) |
 | **MolTrust** | Base | Protocol/Infra, Trust | 🟢 Live | [api.moltrust.ch](https://api.moltrust.ch/docs) |
+| **OrcaLayer API** | Off-chain | API Provider | 🟢 Live | [orcalayer.com/docs](https://orcalayer.com/docs?utm_source=github&utm_campaign=awesome-prediction-market) |
 
 ---
 
